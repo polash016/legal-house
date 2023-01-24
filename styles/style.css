@@ -1,0 +1,20 @@
+.banner-img{
+background-image: url(../images/banner.png);
+background-repeat: no-repeat;
+height: 100vh;
+}
+.carousel-img1{
+    background-image: url(../images/slider-1.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.carousel-img2{
+    background-image: url(../images/slider-2.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.carousel-img3{
+    background-image: url(../images/slider-3.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
